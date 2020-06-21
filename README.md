@@ -29,7 +29,7 @@ $ F:\name.exe
 ZIP : [Link](https://github.com/mahdigholami099/EightQueensPuzzle/archive/master.zip)<br> 
 TAR.GZ : [Link](https://github.com/mahdigholami099/EightQueensPuzzle/archive/master.tar.gz)
 #### Clone
-1. Open powershell and go to directory where you want clone this repository and enter bellow command in powershell.
+1. Open powershell and go to directory where you want clone this repository and enter below command in powershell.
     ```
     $ git clone https://github.com/mahdigholami099/EightQueensPuzzle.git
     ```
