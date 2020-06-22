@@ -6,7 +6,7 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8×8 
 ------------
 ## Installation
 1. Install GCC. [Download Link][2]
-2. Download or clone.
+2. Download or clone this repository.
     > How? read the download or clone section
 3. Open powershell and go to directory where you want install and enter bellow command in powershell.
     ```
