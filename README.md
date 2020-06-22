@@ -16,7 +16,7 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8×8 
 ##### Notes
 1. Change F:\EightQueensPuzzle\EightQueensPuzzle.cpp with your cloned or downloaded direction.
 2. You can change name with your favorite name like Example.exe.
-3. for run this later you just need to write the name.exe direction on your powershell like bellow.
+3. For run this later you just need to write the name.exe direction on your powershell like bellow.
 
 ```
 $ F:\name.exe
