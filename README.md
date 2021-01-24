@@ -34,5 +34,5 @@ TAR.GZ : [Link](https://github.com/mahdigholami099/EightQueensPuzzle/archive/mas
     $ git clone https://github.com/mahdigholami099/EightQueensPuzzle.git
     ```
 
-[1]: https://en.wikipedia.org/wiki/Eight_queens_puzzle "wikipedie"
+[1]: https://en.wikipedia.org/wiki/Eight_queens_puzzle "wikipedia"
 [2]: https://osdn.net/projects/mingw/releases/ "MinGW GCC"
